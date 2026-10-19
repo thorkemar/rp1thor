@@ -6,10 +6,17 @@
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
-* _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
-* _Izreži_ označeno v odložišče: Ctrl+X
-* _Prilepi_ vsebino odložišča: Ctrl+V
-
+* _Kopiraj_ označeno v odložišče: <kbd>Ctrl+C</kbd> (**C**opy)
+* _Izreži_ označeno v odložišče: <kbd>Ctrl+X</kbd>
+* _Prilepi_ vsebino odložišča: <kbd>Ctrl+V</kbd>
+* _Odpiranje_ novega zavihka: <kbd>Ctrl+T</kbd> (**T**ab)
+* _Upravljanje_ z okni: <kbd>Win+arrow</kbd>
+* _Fokus_ na naslovno vrstico: <kbd>Ctrl+L</kbd>
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 <!-- 2. nivojski razdelek -->
 ## Koda
 
